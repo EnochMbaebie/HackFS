@@ -1,0 +1,14 @@
+{
+  "name": "SChainDapp",
+  "version": "1.0.0",
+  "description": "Blockchain Supply Chain Powered by Ethereum",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
